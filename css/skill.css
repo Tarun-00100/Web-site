@@ -1,0 +1,19 @@
+.mycontainer {
+    background-color: aqua;
+    margin: 40px;
+padding: 1000px;
+}
+
+
+.outer-skill-bar {
+    height: 26px;
+    width: 100%;
+    border: 1px solid black;
+  }
+  
+  .inner-skill-bar {
+    height: 100%;
+    width: 0%;
+    background: lightcoral;
+    border-right: 0.5px solid rgb(146, 136, 136);
+  }
